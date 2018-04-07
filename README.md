@@ -1,1 +1,4 @@
-##Ê¹ÓÃrequestsºÍBeautifulSoupÅÀÈ¡½âÎöÌìÆøÍø£ºhttp://www.tianqi.com/zhuhai/Ä³¸ö³ÇÊĞÒ»ÖÜÆøÎÂÖµ£¬°üÀ¨×î¸ßÆøÎÂºÍ×îµÍÆøÎÂ£¬½èÖúmatplotlibµÄpyplotÄ£¿éºÍÇ¿´óµÄpygal»æ³öÆøÎÂÕÛÏßÍ¼
+##ä½¿ç”¨requestså’ŒBeautifulSoupçˆ¬å–è§£æå¤©æ°”ç½‘ï¼šhttp://www.tianqi.com/zhuhai/
+æŸä¸ªåŸå¸‚ä¸€å‘¨æ°”æ¸©å€¼ï¼ŒåŒ…æ‹¬æœ€é«˜æ°”æ¸©å’Œæœ€ä½æ°”æ¸©ï¼Œå€ŸåŠ©matplotlibçš„pyplotæ¨¡å—å’Œå¼ºå¤§çš„pygalç»˜å‡ºæ°”æ¸©æŠ˜çº¿å›¾
+###ä½¿ç”¨pyploy:
+![Image text](https://github.com/xiaoyuan199/MyDemo/blob/master/%E5%9B%BE.png)
