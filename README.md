@@ -1,0 +1,1 @@
+##使用requests和BeautifulSoup爬取解析天气网：http://www.tianqi.com/zhuhai/某个城市一周气温值，包括最高气温和最低气温，借助matplotlib的pyplot模块和强大的pygal绘出气温折线图
